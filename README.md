@@ -30,7 +30,7 @@
 
 可以表达自己的情感，可以持有不同的观点或者批驳，但是，请不要使用令人不适的文字人身攻击。
 
-# 3 Features
+# 3 To do:
 
 - We now need a English translator to translate at least the README file.
 - Please spread this project.
