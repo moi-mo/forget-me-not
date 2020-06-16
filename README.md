@@ -12,7 +12,7 @@
 
 我不爱谈什么遗产啊后人啊什么的，我只是觉得在自己的生命里陪伴过自己的鲜活的东西突然逝去了，我会怅然若失，我会不想忘记那些。
 
-<p align="center"> <b>forget me not**</b> </p>
+<p align="center"> <b>forget me not</b> </p>
 
 # 1
 
